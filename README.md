@@ -10,9 +10,8 @@
 
 **`Fullstack developer`**
 
-I'm a 23-year-old software developer from Colombia with a knack for weaving code and creativity together. My primary tech companions are Django and Vue.js, which I use to craft intuitive and robust digital solutions. As a bilingual maestro of both Spanish and English, I revel in the rhythm of coding as a language of its own. Though I've traded classroom teaching for the boundless realm of software development, the heart of an educator still beats within me as I explore and share the intricacies of programming. My journey is fueled by a relentless pursuit of truth, a dash of Dave Chappelle humor, and a continual quest for personal growth, particularly in the realms of conscientiousness and interactive learning. When not entangled in lines of code, you can find me dissecting the humor of life on YouTube or delving into the profound realms of tech innovations.
+I'm a 23-year-old software developer from Colombia, adept in Django and Vue.js. With a passion for coding and a bilingual background in Spanish and English, I explore and share the digital realm's intricacies. My journey is driven by a relentless pursuit of truth and a quest for personal growth. Off the coding grid, I delve into humor and tech innovations on YouTube.
 
-## Toolset
 
 <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;&nbsp;
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />&nbsp;&nbsp;
