@@ -1,9 +1,11 @@
 ### Hi there 👋
+
+<img align="left" alt="DG" width="60px" style="padding-right:10px;" src="https://flac.pythonanywhere.com/static/website/android-chrome-512x512.png"/>
+
 ---
 
 ### Toolset
 
-<img align="left" alt="DG" width="30px" style="padding-right:10px;" src="https://flac.pythonanywhere.com/static/website/android-chrome-512x512.png"/>
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
