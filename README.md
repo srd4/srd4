@@ -1,7 +1,3 @@
-# 🧠 Daniel Gil
-
-**`Fullstack developer`**
-
 <div align="center">
   <a href="https://flac.pythonanywhere.com/">
     <img alt="DG" width="60px" height="60px" src="https://flac.pythonanywhere.com/static/website/android-chrome-512x512.png"/>
@@ -9,6 +5,12 @@
     My Portfolio website
   </a>
 </div>
+
+# 🧠 Daniel Gil
+
+**`Fullstack developer`**
+
+I'm a 23-year-old software developer from Colombia with a knack for weaving code and creativity together. My primary tech companions are Django and Vue.js, which I use to craft intuitive and robust digital solutions. As a bilingual maestro of both Spanish and English, I revel in the rhythm of coding as a language of its own. Though I've traded classroom teaching for the boundless realm of software development, the heart of an educator still beats within me as I explore and share the intricacies of programming. My journey is fueled by a relentless pursuit of truth, a dash of Dave Chappelle humor, and a continual quest for personal growth, particularly in the realms of conscientiousness and interactive learning. When not entangled in lines of code, you can find me dissecting the humor of life on YouTube or delving into the profound realms of tech innovations.
 
 ## Toolset
 
@@ -27,8 +29,9 @@
 ---
 ### 📊 Stats
 
-| <a href="https://github.com/srd4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srd4&show_icons=true&include_all_commits=true&theme=outrun&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/srd4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srd4&layout=compact&theme=outrun&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/srd4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srd4&show_icons=true&include_all_commits=true&theme=outrun&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/srd4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srd4&layout=compact&theme=outrun&hide_border=true" /></a>
+</div>
 
 
 
