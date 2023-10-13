@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-
-<a href="https://flac.pythonanywhere.com/"><img align="left" alt="DG" width="60px" style="padding-right:10px;" src="https://flac.pythonanywhere.com/static/website/android-chrome-512x512.png"/></a>
+<p>
+  <a href="https://flac.pythonanywhere.com/">
+    <img align="left" alt="DG" width="60px" src="https://flac.pythonanywhere.com/static/website/android-chrome-512x512.png"/>
+  </a>
+</p>
 
 <br />
 
