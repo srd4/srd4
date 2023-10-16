@@ -29,7 +29,7 @@ I'm a 23-year-old software developer from Colombia, adept in Django and Vue.js. 
 ### 📊 Stats
 
 <div align="center">
-  <a href="https://github.com/srd4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srd4&show_icons=true&include_all_commits=true&theme=outrun&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/srd4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srd4&layout=compact&theme=outrun&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srd4&show_icons=true&include_all_commits=true&theme=outrun&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srd4&layout=compact&theme=outrun&hide_border=true" /></a>
 </div>
 
 
